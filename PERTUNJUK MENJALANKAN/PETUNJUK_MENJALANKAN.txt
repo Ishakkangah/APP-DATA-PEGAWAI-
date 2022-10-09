@@ -1,0 +1,13 @@
+cara menjalankan :
+lakukan printah
+1. Run composer install
+2. Run cp .env.example .env
+3. Run php artisan key:generate // OPTIONAL
+4. Run php artisan migrate
+5. Run php artisan serve
+7. Run php artisan db:refresh 
+8. Run php artisan serve
+6. Go to link localhost:8000.
+
+
+// SEMOGA BERHASIL
